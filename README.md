@@ -30,8 +30,6 @@ Inspired by similar open-source projects like:
 
 ## Code
 
-C++
-
 ```
 #include <Keyboard.h>
 
